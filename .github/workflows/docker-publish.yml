@@ -29,5 +29,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            YOUR_DOCKER_USERNAME/my-docker-image:latest
-            YOUR_DOCKER_USERNAME/my-docker-image:aditya.kondai
+            kaytida1/tds_course:latest
+            kaytida1/tds_course:aditya.kondai
